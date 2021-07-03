@@ -45,6 +45,7 @@
 
         public IActionResult Privacy()
         {
+
             var model1 = new IndexViewModel
             {
                 DataTime = DateTime.UtcNow.Year,

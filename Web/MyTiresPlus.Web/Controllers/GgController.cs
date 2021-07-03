@@ -4,6 +4,7 @@
 
     using Microsoft.AspNetCore.Mvc;
     using MyTiresPlus.Data;
+    using MyTiresPlus.Web.Service;
 
     public class DataViewModel
     {
@@ -16,9 +17,10 @@
     public class GgController : Controller
     {
         private readonly ApplicationDbContext data;
-
-        public GgController(ApplicationDbContext data)
+        private readonly IshortStringservice gservice;
+        public GgController(ApplicationDbContext data, IshortStringservice gservice)
         {
+            this.gservice = gservice;
             this.data = data;
         }
 
