@@ -9,14 +9,16 @@
     using System.Linq;
     using System;
     using MyTiresPlus.Web.ViewModels.Home;
+    using MyTiresPlus.Web.Service;
 
     public class HomeController : BaseController
     {
         private readonly ApplicationDbContext data;
-
-        public HomeController(ApplicationDbContext data)
+        private readonly IshortStringservice gservise;
+        public HomeController(ApplicationDbContext data, IshortStringservice gservise)
         {
             this.data = data;
+            this.gservise = gservise;
         }
 
         public IActionResult Index(int Id)
@@ -37,9 +39,10 @@
                 Name = "Niki",
                 DataTime = DateTime.UtcNow.Year,
                 ProcesorCount = Environment.ProcessorCount,
-                UserCount = this.data.Users.Count()
+                UserCount = this.data.Users.Count(),
+                Email = @"Курсът ""ASP.NET Core"" ще ви научи как се изграждат съвременни уеб приложения с архитектурата Model-View-ControlleR",
             };
-
+            indexViewModel.Email = this.gservise.GetShort(indexViewModel.Email, 25);
             return this.View(indexViewModel);
         }
 
