@@ -1,0 +1,22 @@
+@using MyTiresPlus.Web.ViewModels.Home
+@model vmfull
+
+@{
+this.ViewData["Title"] = "Privacy Policy";
+}
+<h1>@this.ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+<table class="table table-striped table-hover table-sm" >
+    @for (int i = 0; i < 7; i++)
+    {
+    <tr>
+        <td>
+            <p>@Model.Model1.DataTime</p>
+            <p>@Model.Model2.Price</p>
+        </td>
+        
+    </tr>
+    }
+</table>
+

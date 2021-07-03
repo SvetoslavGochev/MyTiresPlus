@@ -1,0 +1,9 @@
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Mapping\bin\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.deps.json
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Mapping\bin\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.dll
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Mapping\bin\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.pdb
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Mapping\obj\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Mapping\obj\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Mapping\obj\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.AssemblyInfo.cs
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Mapping\obj\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Mapping\obj\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.dll
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Mapping\obj\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.pdb

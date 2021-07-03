@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNvqpdrWTfZzZJ9kYsMWH4Uw1+sdOUMOtI95egy+cJvvuWwQx+nRy7DL2twK99AmbT5d7PxZmnXzxBSs39cfuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Svetoslav\\Desktop\\Template\\MyTiresPlus.Common\\MyTiresPlus.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Svetoslav\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Svetoslav\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

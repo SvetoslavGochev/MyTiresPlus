@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uWdl4xet1cdBJV7lw1XAUqQhS09uJCqzc4tyWKV+AFtDvTEDdO5c8bQ/oQonljTDaJmf4EnxLbUHvxATfRB+zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Svetoslav\\Desktop\\Template\\Services\\MyTiresPlus.Services.Mapping\\MyTiresPlus.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Svetoslav\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Svetoslav\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Svetoslav\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Svetoslav\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\Svetoslav\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

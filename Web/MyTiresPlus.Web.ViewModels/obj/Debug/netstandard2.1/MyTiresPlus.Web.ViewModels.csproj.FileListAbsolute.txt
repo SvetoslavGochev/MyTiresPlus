@@ -1,0 +1,16 @@
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\bin\Debug\netstandard2.1\MyTiresPlus.Web.ViewModels.deps.json
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\bin\Debug\netstandard2.1\MyTiresPlus.Web.ViewModels.dll
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\bin\Debug\netstandard2.1\MyTiresPlus.Web.ViewModels.pdb
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\bin\Debug\netstandard2.1\MyTiresPlus.Data.Common.dll
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\bin\Debug\netstandard2.1\MyTiresPlus.Data.Models.dll
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\bin\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.dll
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\bin\Debug\netstandard2.1\MyTiresPlus.Data.Models.pdb
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\bin\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.pdb
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\bin\Debug\netstandard2.1\MyTiresPlus.Data.Common.pdb
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\obj\Debug\netstandard2.1\MyTiresPlus.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\obj\Debug\netstandard2.1\MyTiresPlus.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\obj\Debug\netstandard2.1\MyTiresPlus.Web.ViewModels.AssemblyInfo.cs
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\obj\Debug\netstandard2.1\MyTiresPlus.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\obj\Debug\netstandard2.1\MyTiresPlus.Web.ViewModels.csproj.CopyComplete
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\obj\Debug\netstandard2.1\MyTiresPlus.Web.ViewModels.dll
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.ViewModels\obj\Debug\netstandard2.1\MyTiresPlus.Web.ViewModels.pdb

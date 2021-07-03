@@ -1,0 +1,8 @@
+C:\Users\Svetoslav\Desktop\Template\MyTiresPlus.Common\bin\Debug\netstandard2.1\MyTiresPlus.Common.deps.json
+C:\Users\Svetoslav\Desktop\Template\MyTiresPlus.Common\bin\Debug\netstandard2.1\MyTiresPlus.Common.dll
+C:\Users\Svetoslav\Desktop\Template\MyTiresPlus.Common\bin\Debug\netstandard2.1\MyTiresPlus.Common.pdb
+C:\Users\Svetoslav\Desktop\Template\MyTiresPlus.Common\obj\Debug\netstandard2.1\MyTiresPlus.Common.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\Desktop\Template\MyTiresPlus.Common\obj\Debug\netstandard2.1\MyTiresPlus.Common.AssemblyInfo.cs
+C:\Users\Svetoslav\Desktop\Template\MyTiresPlus.Common\obj\Debug\netstandard2.1\MyTiresPlus.Common.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\Desktop\Template\MyTiresPlus.Common\obj\Debug\netstandard2.1\MyTiresPlus.Common.dll
+C:\Users\Svetoslav\Desktop\Template\MyTiresPlus.Common\obj\Debug\netstandard2.1\MyTiresPlus.Common.pdb

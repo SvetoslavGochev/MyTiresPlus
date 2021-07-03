@@ -1,0 +1,9 @@
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.Infrastructure\bin\Debug\netstandard2.1\MyTiresPlus.Web.Infrastructure.deps.json
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.Infrastructure\bin\Debug\netstandard2.1\MyTiresPlus.Web.Infrastructure.dll
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.Infrastructure\bin\Debug\netstandard2.1\MyTiresPlus.Web.Infrastructure.pdb
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.Infrastructure\obj\Debug\netstandard2.1\MyTiresPlus.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.Infrastructure\obj\Debug\netstandard2.1\MyTiresPlus.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.Infrastructure\obj\Debug\netstandard2.1\MyTiresPlus.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.Infrastructure\obj\Debug\netstandard2.1\MyTiresPlus.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.Infrastructure\obj\Debug\netstandard2.1\MyTiresPlus.Web.Infrastructure.dll
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web.Infrastructure\obj\Debug\netstandard2.1\MyTiresPlus.Web.Infrastructure.pdb

@@ -1,0 +1,16 @@
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\bin\Debug\netstandard2.1\MyTiresPlus.Services.Data.deps.json
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\bin\Debug\netstandard2.1\MyTiresPlus.Services.Data.dll
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\bin\Debug\netstandard2.1\MyTiresPlus.Services.Data.pdb
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\bin\Debug\netstandard2.1\MyTiresPlus.Data.Common.dll
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\bin\Debug\netstandard2.1\MyTiresPlus.Data.Models.dll
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\bin\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.dll
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\bin\Debug\netstandard2.1\MyTiresPlus.Data.Common.pdb
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\bin\Debug\netstandard2.1\MyTiresPlus.Data.Models.pdb
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\bin\Debug\netstandard2.1\MyTiresPlus.Services.Mapping.pdb
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\obj\Debug\netstandard2.1\MyTiresPlus.Services.Data.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\obj\Debug\netstandard2.1\MyTiresPlus.Services.Data.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\obj\Debug\netstandard2.1\MyTiresPlus.Services.Data.AssemblyInfo.cs
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\obj\Debug\netstandard2.1\MyTiresPlus.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\obj\Debug\netstandard2.1\MyTiresPlus.Services.Data.csproj.CopyComplete
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\obj\Debug\netstandard2.1\MyTiresPlus.Services.Data.dll
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Data\obj\Debug\netstandard2.1\MyTiresPlus.Services.Data.pdb

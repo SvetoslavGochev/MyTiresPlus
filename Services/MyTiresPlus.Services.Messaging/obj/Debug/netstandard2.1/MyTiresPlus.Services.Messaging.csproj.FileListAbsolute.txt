@@ -1,0 +1,9 @@
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Messaging\bin\Debug\netstandard2.1\MyTiresPlus.Services.Messaging.deps.json
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Messaging\bin\Debug\netstandard2.1\MyTiresPlus.Services.Messaging.dll
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Messaging\bin\Debug\netstandard2.1\MyTiresPlus.Services.Messaging.pdb
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Messaging\obj\Debug\netstandard2.1\MyTiresPlus.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Messaging\obj\Debug\netstandard2.1\MyTiresPlus.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Messaging\obj\Debug\netstandard2.1\MyTiresPlus.Services.Messaging.AssemblyInfo.cs
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Messaging\obj\Debug\netstandard2.1\MyTiresPlus.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Messaging\obj\Debug\netstandard2.1\MyTiresPlus.Services.Messaging.dll
+C:\Users\Svetoslav\Desktop\Template\Services\MyTiresPlus.Services.Messaging\obj\Debug\netstandard2.1\MyTiresPlus.Services.Messaging.pdb
