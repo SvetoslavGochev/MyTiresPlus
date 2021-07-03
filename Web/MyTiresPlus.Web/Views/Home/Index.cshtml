@@ -1,6 +1,11 @@
 ﻿
 @using MyTiresPlus.Web.ViewModels.Home
 @using MyTiresPlus.Common
+
+
+@using MyTiresPlus.Web.Service;
+@inject IshortStringservice Gservise;
+
 @model IndexViewModel
 @{
     this.ViewData["Title"] = "Home Page";
@@ -50,7 +55,7 @@
     <p>ProcesorCount: @Model.ProcesorCount</p>
     <p>Time: @Model.DataTime</p>
     <p>Id: @Model.Id</p>
-    <p>@Model.Email</p>
-
+    <p>@Gservise.GetShort(Model.Email, 27)</p>
+    
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
