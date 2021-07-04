@@ -465,4 +465,5 @@ C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\ref\MyT
 C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\MyTiresPlus.Web.pdb
 C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\MyTiresPlus.Web.genruntimeconfig.cache
 C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\Razor\Views\Gg\ById.cshtml.g.cs
-C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\Razor\Views\AA\HH.cshtml.g.cs
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\Razor\Views\Shared\_MyNewLeyat.cshtml.g.cs
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\Razor\Views\Гуми\Обяви.cshtml.g.cs

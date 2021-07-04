@@ -19,6 +19,7 @@
         {
             this.data = data;
             this.gservise = gservise;
+            
         }
 
         public IActionResult Index(int Id)
@@ -67,7 +68,7 @@
             //loading view of index with empty view model
             return this.View(ViewModel);
         }
-       
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

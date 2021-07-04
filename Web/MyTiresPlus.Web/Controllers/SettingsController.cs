@@ -2,12 +2,10 @@
 {
     using System;
     using System.Threading.Tasks;
-
     using MyTiresPlus.Data.Common.Repositories;
     using MyTiresPlus.Data.Models;
     using MyTiresPlus.Services.Data;
     using MyTiresPlus.Web.ViewModels.Settings;
-
     using Microsoft.AspNetCore.Mvc;
 
     public class SettingsController : BaseController

@@ -9,23 +9,9 @@
 @model IndexViewModel
 @{
     this.ViewData["Title"] = "Home Page";
+    
 }
 
-
-@*
-        <div class="text-center">
-        <h1 class="display-4">Welcome to @GlobalConstants.SystemName!</h1>
-        <h2 class="display-4">Welcome, @ViewData["Name"] </h2>
-        <h3>It @ViewData["Year"] year.</h3>
-        <p>We hawe @ViewData["UsersCount"] users</p>
-        <p>@Environment.ProcessorCount</p>
-        <p>@DateTime.Now</p>
-      <p>@this.User.Identity.Name</p>
-        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-    </div>
-*@
-
- 
 <div class="text-center">
     @for (int i = 0; i < 10; i++)
     {
@@ -56,6 +42,17 @@
     <p>Time: @Model.DataTime</p>
     <p>Id: @Model.Id</p>
     <p>@Gservise.GetShort(Model.Email, 27)</p>
-    
+    @*
+            <div class="text-center">
+            <h1 class="display-4">Welcome to @GlobalConstants.SystemName!</h1>
+            <h2 class="display-4">Welcome, @ViewData["Name"] </h2>
+            <h3>It @ViewData["Year"] year.</h3>
+            <p>We hawe @ViewData["UsersCount"] users</p>
+            <p>@Environment.ProcessorCount</p>
+            <p>@DateTime.Now</p>
+          <p>@this.User.Identity.Name</p>
+            <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        </div>
+    *@
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
