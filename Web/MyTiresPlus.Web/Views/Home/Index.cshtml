@@ -9,9 +9,9 @@
 @model IndexViewModel
 @{
     this.ViewData["Title"] = "Home Page";
-    
-}
 
+}
+@Html.EditorForModel()
 <div class="text-center">
     @for (int i = 0; i < 10; i++)
     {
