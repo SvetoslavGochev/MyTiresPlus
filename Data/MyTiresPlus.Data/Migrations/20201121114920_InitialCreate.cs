@@ -8,6 +8,11 @@
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+            //migrationBuilder.InsertData(
+            //    table: "Blogs",
+            //    columns: new[] { "Urls" },
+            //    values: new object[] { "http://generated.com" });
+            //dopalnitelin tanbblici
             migrationBuilder.CreateTable(
                 name: "AspNetRoles",
                 columns: table => new
@@ -233,7 +238,7 @@
                 table: "Settings",
                 column: "IsDeleted");
         }
-
+         
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(

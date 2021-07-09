@@ -12,7 +12,11 @@
 
 }
 @Html.EditorForModel()
-<div class="text-center">
+<partial name="_HomePageStart" model="Model.Name"/>
+
+<vc:asda ...></vc:asda>
+
+<div class="text-center" >
     @for (int i = 0; i < 10; i++)
     {
         if (i % 2 == 0)
@@ -36,12 +40,12 @@
         <h2 class="display-4">Welcome, @Model.Name </h2>
     }
 
-    <h3>It @Model.Year year.</h3>
-    <p>We hawe @Model.UserCount users</p>
-    <p>ProcesorCount: @Model.ProcesorCount</p>
-    <p>Time: @Model.DataTime</p>
-    <p>Id: @Model.Id</p>
-    <p>@Gservise.GetShort(Model.Email, 27)</p>
+    <h3 class="form-control" col-md-3>It @Model.Year year.</h3>
+    <p class="form-control" col-md-3>We hawe @Model.UserCount users</pclass="form-control">
+    <p class="form-control" col-md-3>ProcesorCount: @Model.ProcesorCount</p>
+    <p class="form-control" col-md-3>Time: @Model.DataTime</p>
+    <p class="form-control" col-md-3>Id: @Model.Id</p>
+    <p class="form-control" col-md-3>@Gservise.GetShort(Model.Email, 27)</p>
     @*
             <div class="text-center">
             <h1 class="display-4">Welcome to @GlobalConstants.SystemName!</h1>

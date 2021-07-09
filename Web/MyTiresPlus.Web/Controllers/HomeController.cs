@@ -69,6 +69,21 @@
             return this.View(ViewModel);
         }
 
+        public IActionResult ContactForm()
+        {
+            return this.View();
+        }
+
+        [HttpPost]
+        public IActionResult ContactForm(string title, string content)
+        {
+            if (!this.ModelState.IsValid)
+            {
+                return this.View();
+            }
+            //todo sava titel;e in db
+            return this.RedirectToAction(nameof(Index));
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

@@ -467,3 +467,6 @@ C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\MyTires
 C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\Razor\Views\Gg\ById.cshtml.g.cs
 C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\Razor\Views\Shared\_MyNewLeyat.cshtml.g.cs
 C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\Razor\Views\Гуми\Обяви.cshtml.g.cs
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\Razor\Views\Home\_HomePageStart.cshtml.g.cs
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\RegisteredUsers\Default.cshtml.g.cs
+C:\Users\Svetoslav\Desktop\Template\Web\MyTiresPlus.Web\obj\Debug\net5.0\Razor\Views\Home\ContactForm.cshtml.g.cs
